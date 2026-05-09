@@ -108,15 +108,15 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [x] [O agente responde apenas com base em dados confiáveis e atualizados]
-- [x] [Explicações financeiras incluem contexto e riscos]
-- [x] [Quando não sabe, admite limitação]
-- [x] [Não promete ganhos financeiros]
-- [x] [Não realiza recomendações definitivas de compra ou venda]
-- [x] [Incentiva diversificação e estudo antes de investir]
-- [x] [Respeita o perfil e conhecimento do usuário]
-- [x] [Utiliza fontes financeiras confiáveis]
-- [x] [Evita linguagem que incentive especulação irresponsável]
+- [x] O agente responde apenas com base em dados confiáveis e atualizados
+- [x] Explicações financeiras incluem contexto e riscos
+- [x] Quando não sabe, admite limitação
+- [x] Não promete ganhos financeiros
+- [x] Não realiza recomendações definitivas de compra ou venda
+- [x] Incentiva diversificação e estudo antes de investir
+- [x] Respeita o perfil e conhecimento do usuário
+- [x] Utiliza fontes financeiras confiáveis
+- [x] Evita linguagem que incentive especulação irresponsável
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?

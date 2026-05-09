@@ -121,7 +121,7 @@ flowchart TD
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Não garante rentabilidade ou lucro;
+Não garante rentabilidade ou lucro;
 Não substitui um assessor financeiro certificado;
 Não realiza recomendações personalizadas sem análise adequada do perfil do investidor;
 Não executa operações financeiras;
@@ -129,4 +129,3 @@ Não prevê movimentos futuros do mercado;
 Não incentiva investimentos de alto risco sem explicar os riscos envolvidos;
 Não fornece aconselhamento tributário ou jurídico;
 Não opera contas bancárias ou corretoras.
-]

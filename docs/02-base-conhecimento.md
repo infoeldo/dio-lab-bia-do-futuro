@@ -47,6 +47,21 @@ Os dados técnicos foram transformados em linguagem acessível para melhorar a e
 Os arquivos JSON e CSV são carregados no início da sessão do agente e organizados em memória para consulta rápida. Informações financeiras atualizadas podem ser complementadas através de APIs externas de mercado.
 
 O agente também mantém um histórico leve de interações para adaptar o nível de explicação conforme a evolução do usuário.
+```
+import json
+import pandas as pd
+
+#CVSs
+historico = pd.read_csv('data/historico_atendimento.csv')
+transacoes = pd.read_csv('data/transacoes.csv')
+
+#JSONs  
+with open('data/perfil_investidor.json') as f:
+    perfil = json.load(f)
+with open('data/produtos_financeiros.json') as f:
+    produtos = json.load(f) 
+    
+```
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
